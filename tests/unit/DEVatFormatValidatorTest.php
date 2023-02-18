@@ -3,6 +3,7 @@
 namespace rocketfellows\DEVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\DEVatFormatValidator\DEVatFormatValidator;
 
 class DEVatFormatValidatorTest extends TestCase
 {
