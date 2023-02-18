@@ -7,7 +7,6 @@ use rocketfellows\DEVatFormatValidator\DEVatFormatValidator;
 
 class DEVatFormatValidatorTest extends TestCase
 {
-
     /**
      * @var DEVatFormatValidator
      */
